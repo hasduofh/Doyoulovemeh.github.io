@@ -2,7 +2,7 @@
 
 //click yes btn
 function clickYesButton() {
-    alert('I love you too <3');
+    alert('I love you too <3 Can you be my last and forever?');
 }
 
 //move button on hover
